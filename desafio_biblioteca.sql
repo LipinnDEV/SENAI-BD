@@ -1,16 +1,4 @@
--- =============================================================================
--- DESAFIO DE BANCO DE DADOS — BIBLIOTECA
--- Aluno: Felipe Da Silva Mousinho
--- Arquivo: desafio_biblioteca.sql
--- =============================================================================
-
-
--- =============================================================================
--- 1. CRIAÇÃO DO BANCO DE DADOS
--- =============================================================================
-
 DROP DATABASE IF EXISTS desafio_biblioteca;
-
 CREATE DATABASE desafio_biblioteca
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
