@@ -1,14 +1,3 @@
--- =============================================================================
--- DESAFIO DE BANCO DE DADOS — CLÍNICA VETERINÁRIA
--- Aluno: Felipe Da Silva Mousinho
--- Arquivo: clinica_veterinaria.sql
--- =============================================================================
-
-
--- =============================================================================
--- 1. CRIAÇÃO DO BANCO DE DADOS
--- =============================================================================
-
 DROP DATABASE IF EXISTS clinica_veterinaria;
 
 CREATE DATABASE clinica_veterinaria
