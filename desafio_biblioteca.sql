@@ -1,10 +1,4 @@
--- =============================================================================
--- DESAFIO BIBLIOTECA
--- Banco de dados relacional para gerenciamento de biblioteca
--- =============================================================================
-
 DROP DATABASE IF EXISTS desafio_biblioteca;
-
 CREATE DATABASE desafio_biblioteca
 
     CHARACTER SET utf8mb4
@@ -14,14 +8,6 @@ CREATE DATABASE desafio_biblioteca
 USE desafio_biblioteca;
 
 SET NAMES utf8mb4;
-
--- =============================================================================
-
--- 1. CRIAÇÃO DAS TABELAS E RESTRIÇÕES
-
--- =============================================================================
-
--- Tabela: categoria
 
 CREATE TABLE categoria (
 
